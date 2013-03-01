@@ -1,7 +1,7 @@
 Then /^I rotate the device to landscape$/ do
-  rotate_phone(90)
+  performAction('set_activity_orientation', 'landscape')
 end
 
 Then /^I rotate the device to portrait$/ do
-  rotate_phone(0)
+  performAction('set_activity_orientation', 'portrait')
 end
