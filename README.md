@@ -1,3 +1,9 @@
+This fork includes
+==================
+* Rotation step enabled
+* Ability to press the actionbar home button
+
+
 Calabash-Android
 ================
 Calabash-Android lets you run [Cucumber](http://cukes.info) features on your Android device or emulator. A Cucumber feature could look something like this:
